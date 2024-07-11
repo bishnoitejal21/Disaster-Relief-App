@@ -1,2 +1,2 @@
-# Climate-Fintech-App
+# Disaster-Relief-App
 
